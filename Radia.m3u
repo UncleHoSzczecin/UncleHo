@@ -35,8 +35,6 @@ http://stream1.radiopik.pl:9004/;
 http://stream4.nadaje.com:11986/prs.aac
 #EXTINF:0,Radio Szczecin Extra
 http://stream3.nadaje.com:8200/szczecinfm
-#EXTINF:0,Radio Weszło FM
-https://streams.radio.co/s7d70a7895/listen
 #EXTINF:0,Twoja Polska Stacja
 http://sluchaj.TWOJAPOLSKASTACJA.pL:8055/twojapolskastacja
 #EXTINF:0,Muzo FM
