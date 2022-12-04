@@ -1,99 +1,99 @@
 #EXTM3U
-#EXTINF:0,Złote Przeboje Warszawa 
+#EXTINF:0, group-title="Radio" radio="true",Złote Przeboje Warszawa
 http://stream14.radioagora.pl:80/tuba8936-1.mp3
-#EXTINF:0,Radio 357 
+#EXTINF:0, group-title="Radio" radio="true",Radio 357 
 https://stream.rcs.revma.com/ye5kghkgcm0uv
-#EXTINF:0,Radio Nowy Świat 
+#EXTINF:0, group-title="Radio" radio="true",Radio Nowy Świat 
 http://n14a-eu.rcs.revma.com/ypqt40u0x1zuv?fbclid=IwAR33C5SCJBsBw9ab7AG1KshPNBHjkQm1r30xnSeG7fJqgx16O4m7g7AzSZw&rj-ttl=5&rj-tok=AAABdIjUhZYAWax5yx0dcl16dQ
-#EXTINF:0,Halo Radio
+#EXTINF:0, group-title="Radio" radio="true",Halo Radio
 https://s3.radio.co/s6b9e36d1c/listen
-#EXTINF:0,Antyradio Warszawa 
+#EXTINF:0, group-title="Radio" radio="true",Antyradio Warszawa 
 https://n-12-1.dcs.redcdn.pl/sc/o2/Eurozet/live/antyradio.livx?audio=5
-#EXTINF:0,Radio Plus Warszawa 
+#EXTINF:0, group-title="Radio" radio="true",Radio Plus Warszawa 
 https://pl04.cdn.eurozet.pl/plu-waw.mp3
-#EXTINF:0,RMF FM
+#EXTINF:0, group-title="Radio" radio="true",RMF FM
 http://195.150.20.8:80/rmf_fm
-#EXTINF:0,RMF24
+#EXTINF:0, group-title="Radio" radio="true",RMF24
 https://rs203-krk-cyfronet.rmfstream.pl/rmf_24
-#EXTINF:0,RMF MAXXX
+#EXTINF:0, group-title="Radio" radio="true",RMF MAXXX
 http://195.150.20.8:80/rmf_maxxx
-#EXTINF:0,RMF Classic
+#EXTINF:0, group-title="Radio" radio="true",RMF Classic
 http://31.192.216.6:80/rmf_classic_nt
-#EXTINF:0,Radio Zet
-https://n-4-14.dcs.redcdn.pl/sc/o2/Eurozet/live/audio.livx?audio=5
-#EXTINF:0,Radio Zet 80s
+#EXTINF:0, group-title="Radio" radio="true",Radio Zet
+https://zt03.cdn.eurozet.pl/zet-tun.mp3
+#EXTINF:0, group-title="Radio" radio="true",Radio Zet 80s
 https://zt02.cdn.eurozet.pl/ZET080.mp3
-#EXTINF:0,Radio Zet 90s
+#EXTINF:0, group-title="Radio" radio="true",Radio Zet 90s
 http://zet090-02.cdn.eurozet.pl:8404/;
-#EXTINF:0,Radio Zet 2000
+#EXTINF:0, group-title="Radio" radio="true",Radio Zet 2000
 https://zt02.cdn.eurozet.pl/ZET200.mp3
-#EXTINF:0,Radio ChiliZet
+#EXTINF:0, group-title="Radio" radio="true",Radio ChiliZet
 https://ch03.cdn.eurozet.pl/chi-net.mp3
-#EXTINF:0,Radio PiK
+#EXTINF:0, group-title="Radio" radio="true",Radio PiK
 http://stream1.radiopik.pl:9004/;
-#EXTINF:0,Radio Szczecin
+#EXTINF:0, group-title="Radio" radio="true",Radio Szczecin
 http://stream4.nadaje.com:11986/prs.aac
-#EXTINF:0,Radio Szczecin Extra
+#EXTINF:0, group-title="Radio" radio="true",Radio Szczecin Extra
 http://stream3.nadaje.com:8200/szczecinfm
-#EXTINF:0,Twoja Polska Stacja
+#EXTINF:0, group-title="Radio" radio="true",Twoja Polska Stacja
 http://sluchaj.TWOJAPOLSKASTACJA.pL:8055/twojapolskastacja
-#EXTINF:0,Muzo FM
+#EXTINF:0, group-title="Radio" radio="true",Muzo FM
 https://n02a-eu.rcs.revma.com/1nnezw8qz7zuv?rj-ttl=5&rj-tok=AAABfZ2L7tEA8MxWf6QW5Gmjtg
-#EXTINF:0,Newonece Radio
+#EXTINF:0, group-title="Radio" radio="true",Newonce Radio
 https://stream.open.fm/374
-#EXTINF:0,TOK FM
+#EXTINF:0, group-title="Radio" radio="true",TOK FM
 http://olsztyn.radio.pionier.net.pl:8000/z/radiotok4.ogg
-#EXTINF:0,Radio Trendy
+#EXTINF:0, group-title="Radio" radio="true",Radio Trendy
 http://stream.trendyradio.pl:8000/h
-#EXTINF:0,RDN Małopolska
+#EXTINF:0, group-title="Radio" radio="true",RDN Małopolska
 https://stream1.dabcom.pl/rdn_mpl
-#EXTINF:0,Meloradio
+#EXTINF:0, group-title="Radio" radio="true",Meloradio
 https://bit.ly/2zWCKMb
-#EXTINF:0,Planeta FM
+#EXTINF:0, group-title="Radio" radio="true",Planeta FM
 http://s1.slotex.pl:7384/;
-#EXTINF:0,VOX FM Warszawa
+#EXTINF:0, group-title="Radio" radio="true",VOX FM Warszawa
 http://hd.digitalradio.mx:5906/;
-#EXTINF:0,VOX FM 90
-https://ext03.ic.smcdn.pl/6170-1.mp3
-#EXTINF:0,VOX FM Best Lista
-https://ext03.ic.smcdn.pl/6100-1.mp3
-#EXTINF:0,VOX FM Disco Party
-https://ext03.ic.smcdn.pl/6180-1.mp3
-#EXTINF:0,SuperNova Warszawa
+#EXTINF:0, group-title="Radio" radio="true",VOX FM 90
+https://ic1.smcdn.pl/6170-1.mp3
+#EXTINF:0, group-title="Radio" radio="true",VOX FM Best Lista
+https://ic1.smcdn.pl/6100-1.mp3
+#EXTINF:0, group-title="Radio" radio="true",VOX FM Disco Party
+https://ic1.smcdn.pl/6180-1.mp3
+#EXTINF:0, group-title="Radio" radio="true",SuperNova Warszawa
 https://radio.stream.smcdn.pl/icradio-p/1380-1.aac/playlist.m3u8
-#EXTINF:0,ESKA Warszawa
-https://ext03.ic.smcdn.pl/6130-1.mp3
-#EXTINF:0,Radio 90
+#EXTINF:0, group-title="Radio" radio="true",ESKA Wrosław
+https://ic2.smcdn.pl/2180-2.aac
+#EXTINF:0, group-title="Radio" radio="true",Radio 90
 http://stream0.radio90.pl:8000/radio90_128kbps_stereo.mp3
-#EXTINF:0,Radio 5
+#EXTINF:0, group-title="Radio" radio="true",Radio 5
 https://streaming.radio5.com.pl:8888/radio5suwalki
-#EXTINF:0,Radio 7
+#EXTINF:0, group-title="Radio" radio="true",Radio 7
 https://stream.radio7.pl/;stream.mp3
-#EXTINF:0,Weekend FM
+#EXTINF:0, group-title="Radio" radio="true",Weekend FM
 https://stream.weekendfm.pl/weekendfm_najlepsza
-#EXTINF:0,Radio Wnet
+#EXTINF:0, group-title="Radio" radio="true",Radio Wnet
 http://audio.radiownet.pl:8000/stream
-#EXTINF:0,Radio Kolor
+#EXTINF:0, group-title="Radio" radio="true",Radio Kolor
 https://stream.radiojar.com/xt0cf1v8938uv
-#EXTINF:0,Radio Silesia
+#EXTINF:0, group-title="Radio" radio="true",Radio Silesia
 http://s1.slotex.pl:7926/stream/1/;stream.mp3
-#EXTINF:0,SmoothJazz Radio
+#EXTINF:0, group-title="Radio" radio="true",SmoothJazz Radio
 https://www.liveradio.es/http://stream14.shoutcastsolutions.com:8057/256stream
-#EXTINF:0,Radio Pogoda
-https://radiostream.pl/tuba38-1.mp3
-#EXTINF:0,Nasze Radio
+#EXTINF:0, group-title="Radio" radio="true",Radio Pogoda
+http://stream13.radioagora.pl/tuba138-1.mp3
+#EXTINF:0, group-title="Radio" radio="true",Nasze Radio
 https://online.nasze.fm:8443/stream
-#EXTINF:0,RadioSpacja
+#EXTINF:0, group-title="Radio" radio="true",RadioSpacja
 https://s4.radio.co/s8c7d5e4e1/listen
-#EXTINF:0,Polskie Radio 1 
+#EXTINF:0, group-title="Radio" radio="true",Polskie Radio 1 
 http://stream3.polskieradio.pl:8900/
-#EXTINF:0,Polskie Radio 2 
+#EXTINF:0, group-title="Radio" radio="true",Polskie Radio 2 
 http://stream3.polskieradio.pl:8902/
-#EXTINF:0,Polskie Radio 3
+#EXTINF:0, group-title="Radio" radio="true",Polskie Radio 3
 http://stream3.polskieradio.pl:8904/
-#EXTINF:0,Polskie Radio 4
+#EXTINF:0, group-title="Radio" radio="true",Polskie Radio 4
 http://stream3.polskieradio.pl:8906/
-#EXTINF:0,Polskie Radio 24
+#EXTINF:0, group-title="Radio" radio="true",Polskie Radio 24
 http://stream3.polskieradio.pl:8080/
-#EXTINF:0,Radio Maryja
+#EXTINF:0, group-title="Radio" radio="true",Radio Maryja
 http://51.68.135.155:80/stream
