@@ -1,0 +1,87 @@
+#EXTM3U
+#EXTINF:-1 group-title="Sweet.TV",CBS EUROPA
+plugin://plugin.video.sweettvpl/playvid/989|989-cbs-europa
+#EXTINF:-1 group-title="Sweet.TV",Sundance HD
+plugin://plugin.video.sweettvpl/playvid/1080|1080-sundance-hd
+#EXTINF:-1 group-title="Sweet.TV",Dizi HD
+plugin://plugin.video.sweettvpl/playvid/1043|1043-dizi-hd
+#EXTINF:-1 group-title="Sweet.TV",Novela TV HD
+plugin://plugin.video.sweettvpl/playvid/1013|1013-novela-tv-hd
+#EXTINF:-1 group-title="Sweet.TV",FILMAX HD
+plugin://plugin.video.sweettvpl/playvid/1082|1082-filmax-hd
+#EXTINF:-1 group-title="Sweet.TV",Red TOP TV HD
+plugin://plugin.video.sweettvpl/playvid/1015|1015-red-top-tv-hd
+#EXTINF:-1 group-title="Sweet.TV",National Geographic HD
+plugin://plugin.video.sweettvpl/playvid/1049|1049-national-geographic-hd
+#EXTINF:-1 group-title="Sweet.TV",National Geographic Wild HD
+plugin://plugin.video.sweettvpl/playvid/1055|1055-national-geographic-wild-hd
+#EXTINF:-1 group-title="Sweet.TV",Nat Geo People HD
+plugin://plugin.video.sweettvpl/playvid/941|941-disney-junior
+#EXTINF:-1 group-title="Sweet.TV",BBC Earth HD
+plugin://plugin.video.sweettvpl/playvid/1051|1051-bbc-earth-hd
+#EXTINF:-1 group-title="Sweet.TV",HISTORY 2
+plugin://plugin.video.sweettvpl/playvid/992|992-history-2
+#EXTINF:-1 group-title="Sweet.TV",Polsat Viasat History HD
+plugin://plugin.video.sweettvpl/playvid/1044|1044-polsat-viasat-history-hd
+#EXTINF:-1 group-title="Sweet.TV",Polsat Viasat Explore HD
+plugin://plugin.video.sweettvpl/playvid/1046|1046-polsat-viasat-explore-hd
+#EXTINF:-1 group-title="Sweet.TV",Polsat Viasat Nature HD
+plugin://plugin.video.sweettvpl/playvid/1024|1024-polsat-viasat-nature-hd
+#EXTINF:-1 group-title="Sweet.TV",StudioMed TV HD
+plugin://plugin.video.sweettvpl/playvid/1006|1006-studiomed-tv-hd
+#EXTINF:-1 group-title="Sweet.TV",English Club TV HD
+plugin://plugin.video.sweettvpl/playvid/1079|1079-english-club-tv-hd
+#EXTINF:-1 group-title="Sweet.TV",Adventure
+plugin://plugin.video.sweettvpl/playvid/1083|1083-adventure
+#EXTINF:-1 group-title="Sweet.TV",Water Planet HD
+plugin://plugin.video.sweettvpl/playvid/1011|1011-water-planet-hd
+#EXTINF:-1 group-title="Sweet.TV",DocuBox HD
+plugin://plugin.video.sweettvpl/playvid/1048|1048-docubox-hd
+#EXTINF:-1 group-title="Sweet.TV",Polsat CandI HD
+plugin://plugin.video.sweettvpl/playvid/1035|1035-polsat-ci-hd
+#EXTINF:-1 group-title="Sweet.TV",HISTORY
+plugin://plugin.video.sweettvpl/playvid/991|991-history
+#EXTINF:-1 group-title="Sweet.TV",BBC Lifestyle HD
+plugin://plugin.video.sweettvpl/playvid/1053|1053-bbc-lifestyle-hd
+#EXTINF:-1 group-title="Sweet.TV",BBC Brit HD
+plugin://plugin.video.sweettvpl/playvid/1047|1047-bbc-brit-hd
+#EXTINF:-1 group-title="Sweet.TV",Active Family HD
+plugin://plugin.video.sweettvpl/playvid/1078|1078-active-family-hd
+#EXTINF:-1 group-title="Sweet.TV",CBS REALITY
+plugin://plugin.video.sweettvpl/playvid/990|990-cbs-reality
+#EXTINF:-1 group-title="Sweet.TV",HOME TV HD
+plugin://plugin.video.sweettvpl/playvid/1095|1095-home-tv-hd
+#EXTINF:-1 group-title="Sweet.TV",XTREME TV HD
+plugin://plugin.video.sweettvpl/playvid/1094|1094-xtreme-tv-hd
+#EXTINF:-1 group-title="Sweet.TV",Ultra TV 4K
+plugin://plugin.video.sweettvpl/playvid/1093|1093-ultra-tv-4k
+#EXTINF:-1 group-title="Sweet.TV",Red Carpet TV HD
+plugin://plugin.video.sweettvpl/playvid/1017|1017-red-carpet-tv-hd
+#EXTINF:-1 group-title="Sweet.TV",MTV Polska HD
+plugin://plugin.video.sweettvpl/playvid/1200|1200-mtv-polska-hd
+#EXTINF:-1 group-title="Sweet.TV",MTV Live HD
+plugin://plugin.video.sweettvpl/playvid/1201|1201-mtv-live-hd
+#EXTINF:-1 group-title="Sweet.TV",NickMusic
+plugin://plugin.video.sweettvpl/playvid/1202|1202-nickmusic
+#EXTINF:-1 group-title="Sweet.TV",MTV 80s
+plugin://plugin.video.sweettvpl/playvid/1207|1207-mtv-80s
+#EXTINF:-1 group-title="Sweet.TV",MTV 90s
+plugin://plugin.video.sweettvpl/playvid/1205|1205-mtv-90s
+#EXTINF:-1 group-title="Sweet.TV",MTV 00s
+plugin://plugin.video.sweettvpl/playvid/1206|1206-mtv-00s
+#EXTINF:-1 group-title="Sweet.TV",Club MTV
+plugin://plugin.video.sweettvpl/playvid/1203|1203-club-mtv
+#EXTINF:-1 group-title="Sweet.TV",MTV Hits
+plugin://plugin.video.sweettvpl/playvid/1204|1204-mtv-hits
+#EXTINF:-1 group-title="Sweet.TV",Stars.TV HD
+plugin://plugin.video.sweettvpl/playvid/1018|1018-starstv-hd
+#EXTINF:-1 group-title="Sweet.TV",Kino Polska Muzyka
+plugin://plugin.video.sweettvpl/playvid/1045|1045-kino-polska-muzyka
+#EXTINF:-1 group-title="Sweet.TV",Nuta TV HD
+plugin://plugin.video.sweettvpl/playvid/1091|1091-nuta-tv-hd
+#EXTINF:-1 group-title="Sweet.TV",MusicBox Polska HD
+plugin://plugin.video.sweettvpl/playvid/1092|1092-musicbox-polska-hd
+#EXTINF:-1 group-title="Sweet.TV",Nuta Gold HD
+plugin://plugin.video.sweettvpl/playvid/1096|1096-nuta-gold-hd
+#EXTINF:-1 group-title="Sweet.TV",Power TV HD
+plugin://plugin.video.sweettvpl/playvid/1097|1097-power-tv-hd
