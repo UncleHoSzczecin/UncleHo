@@ -1,0 +1,148 @@
+#EXTM3U
+#EXTINF:-1,Telewizja WP HD
+plugin://plugin.video.pilot.wp?action=PLAY&channel=158
+#EXTINF:-1 group-title="Pilot WP",Kabaret TV
+plugin://plugin.video.pilot.wp?action=PLAY&channel=271
+#EXTINF:-1 group-title="Pilot WP",TVP 1 HD
+plugin://plugin.video.pilot.wp?action=PLAY&channel=3
+#EXTINF:-1 group-title="Pilot WP",TVP 2 HD
+plugin://plugin.video.pilot.wp?action=PLAY&channel=5
+#EXTINF:-1 group-title="Pilot WP",Polsat HD
+plugin://plugin.video.pilot.wp?action=PLAY&channel=9
+#EXTINF:-1 group-title="Pilot WP",TVN
+plugin://plugin.video.pilot.wp?action=PLAY&channel=14
+#EXTINF:-1 group-title="Pilot WP",TV 4 HD
+plugin://plugin.video.pilot.wp?action=PLAY&channel=11
+#EXTINF:-1 group-title="Pilot WP",TV Puls HD
+plugin://plugin.video.pilot.wp?action=PLAY&channel=12
+#EXTINF:-1 group-title="Pilot WP",4FUN.TV
+plugin://plugin.video.pilot.wp?action=PLAY&channel=21
+#EXTINF:-1 group-title="Pilot WP",4FUN DANCE
+plugin://plugin.video.pilot.wp?action=PLAY&channel=50
+#EXTINF:-1 group-title="Pilot WP",4FUN KIDS
+plugin://plugin.video.pilot.wp?action=PLAY&channel=22
+#EXTINF:-1 group-title="Pilot WP",TVP Warszawa
+plugin://plugin.video.pilot.wp?action=PLAY&channel=57
+#EXTINF:-1 group-title="Pilot WP",TVP Gdańsk
+plugin://plugin.video.pilot.wp?action=PLAY&channel=187
+#EXTINF:-1 group-title="Pilot WP",News24
+plugin://plugin.video.pilot.wp?action=PLAY&channel=272
+#EXTINF:-1 group-title="Pilot WP",Red Top TV
+plugin://plugin.video.pilot.wp?action=PLAY&channel=273
+#EXTINF:-1 group-title="Pilot WP",Gametoon HD
+plugin://plugin.video.pilot.wp?action=PLAY&channel=205
+#EXTINF:-1 group-title="Pilot WP",Stars.TV HD
+plugin://plugin.video.pilot.wp?action=PLAY&channel=24
+#EXTINF:-1 group-title="Pilot WP",Music Box Polska
+plugin://plugin.video.pilot.wp?action=PLAY&channel=188
+#EXTINF:-1 group-title="Pilot WP",Jazz HD
+plugin://plugin.video.pilot.wp?action=PLAY&channel=213
+#EXTINF:-1 group-title="Pilot WP",Fashion TV HD
+plugin://plugin.video.pilot.wp?action=PLAY&channel=58
+#EXTINF:-1 group-title="Pilot WP",France 24 HD
+plugin://plugin.video.pilot.wp?action=PLAY&channel=18
+#EXTINF:-1 group-title="Pilot WP",France 24 English HD
+plugin://plugin.video.pilot.wp?action=PLAY&channel=17
+#EXTINF:-1 group-title="Pilot WP",Nuta GOLD
+plugin://plugin.video.pilot.wp?action=PLAY&channel=172
+#EXTINF:-1 group-title="Pilot WP",wPolsce.pl HD
+plugin://plugin.video.pilot.wp?action=PLAY&channel=174
+#EXTINF:-1 group-title="Pilot WP",TVS
+plugin://plugin.video.pilot.wp?action=PLAY&channel=51
+#EXTINF:-1 group-title="Pilot WP",TV Trwam
+plugin://plugin.video.pilot.wp?action=PLAY&channel=10
+#EXTINF:-1 group-title="Pilot WP",13.TV
+plugin://plugin.video.pilot.wp?action=PLAY&channel=274
+#EXTINF:-1 group-title="Pilot WP",Twoja.TV HD
+plugin://plugin.video.pilot.wp?action=PLAY&channel=150
+#EXTINF:-1 group-title="Pilot WP",Red Carpet TV HD
+plugin://plugin.video.pilot.wp?action=PLAY&channel=138
+#EXTINF:-1 group-title="Pilot WP",Polonia 1
+plugin://plugin.video.pilot.wp?action=PLAY&channel=211
+#EXTINF:-1 group-title="Pilot WP",Tele 5 HD
+plugin://plugin.video.pilot.wp?action=PLAY&channel=212
+#EXTINF:-1 group-title="Pilot WP",TBN Polska HD
+plugin://plugin.video.pilot.wp?action=PLAY&channel=204
+#EXTINF:-1 group-title="Radio",WP Radio
+plugin://plugin.video.pilot.wp?action=PLAY&channel=266
+#EXTINF:-1 group-title="Radio",Radio 357
+plugin://plugin.video.pilot.wp?action=PLAY&channel=240
+#EXTINF:-1 group-title="Radio",Radio Nowy Świat
+plugin://plugin.video.pilot.wp?action=PLAY&channel=238
+#EXTINF:-1 group-title="Pilot WP",Nickelodeon Ukraine Pluto TV
+plugin://plugin.video.pilot.wp?action=PLAY&channel=281
+#EXTINF:-1 group-title="Pilot WP",TVT Rybnik
+plugin://plugin.video.pilot.wp?action=PLAY&channel=298
+#EXTINF:-1 group-title="Pilot WP",Wrestling: Kinguin PTW #3
+plugin://plugin.video.pilot.wp?action=PLAY&channel=232
+
+#EXTINF:0 tvg-id="TVP 1" tvg-logo="https://s8.tvp.pl/images2/8/a/c/uid_8ac2b72c379abf831e4d27a56988eae11638275540325_width_500_play_0_pos_0_gs_0_height_500.png" group-title="TVPGO",TVP 1
+plugin://plugin.video.tvpgo/play_channel?code=T1D&ch_id=5d1dccc1fa06f9682b0f9922
+#EXTINF:0 tvg-id="TVP 2" tvg-logo="https://s3.tvp.pl/images2/3/8/3/uid_38313bd81e2ec78f92fa8d360e738b921638275558292_width_500_play_0_pos_0_gs_0_height_500.png" group-title="TVPGO",TVP 2
+plugin://plugin.video.tvpgo/play_channel?code=T2D&ch_id=5d1dccc1fa06f9682b0f9923
+#EXTINF:0 tvg-id="TVP Info" tvg-logo="https://s2.tvp.pl/images2/2/1/2/uid_2124147c0f8212d59ace8374779b28621638275572006_width_500_play_0_pos_0_gs_0_height_500.png" group-title="TVPGO",TVP Info
+plugin://plugin.video.tvpgo/play_channel?code=INF&ch_id=5d1dccc1fa06f9682b0f9924
+#EXTINF:0 tvg-id="TVP NAUKA" tvg-logo="https://s5.tvp.pl/images2/e/3/a/uid_e3a95bba0e16e0eed0e5fd59229cfbd01663860050881_width_500_play_0_pos_0_gs_0_height_500.png" group-title="TVPGO",TVP NAUKA
+plugin://plugin.video.tvpgo/play_channel?code=NK&ch_id=632c3ddc45f77c91710cc0ae
+#EXTINF:0 tvg-id="TVP Sport" tvg-logo="https://s9.tvp.pl/images2/9/6/b/uid_96b6b3e217181c3d3925ba783fe68a131638275633849_width_500_play_0_pos_0_gs_0_height_500.png" group-title="TVPGO",TVP Sport
+plugin://plugin.video.tvpgo/play_channel?code=KSP&ch_id=5d1dccc1fa06f9682b0f993a
+#EXTINF:0 tvg-id="TVP Kultura" tvg-logo="https://s9.tvp.pl/images2/9/6/1/uid_96117b8fceb8a7db897a9757240316451638275727542_width_500_play_0_pos_0_gs_0_height_500.png" group-title="TVPGO",TVP Kultura
+plugin://plugin.video.tvpgo/play_channel?code=T5D&ch_id=5d1dccc1fa06f9682b0f9936
+#EXTINF:0 tvg-id="TVP Historia" tvg-logo="https://s4.tvp.pl/images2/d/5/e/uid_d5e250a46a37955df5b33847a1f661921638275686065_width_500_play_0_pos_0_gs_0_height_500.png" group-title="TVPGO",TVP Historia
+plugin://plugin.video.tvpgo/play_channel?code=TKH&ch_id=5d1dccc1fa06f9682b0f9938
+#EXTINF:0 tvg-id="TVP ABC" tvg-logo="https://s5.tvp.pl/images2/5/c/8/uid_5c8ba79e2229bf9909ffa4ea9907595e1638275665760_width_500_play_0_pos_0_gs_0_height_500.png" group-title="TVPGO",TVP ABC
+plugin://plugin.video.tvpgo/play_channel?code=ABC&ch_id=5d1dccc1fa06f9682b0f9939
+#EXTINF:0 tvg-id="TVP Dokument" tvg-logo="https://s1.tvp.pl/images2/a/f/1/uid_af1b5529d584f3e6dc893021b38901971638275709609_width_500_play_0_pos_0_gs_0_height_500.png" group-title="TVPGO",TVP Dokument
+plugin://plugin.video.tvpgo/play_channel?code=DOK&ch_id=5fb3cdf8683e7e5a7f307257
+#EXTINF:0 tvg-id="TVP Kobieta" tvg-logo="https://s3.tvp.pl/images2/3/6/2/uid_362ac36e5828f7e25f5e5d028b7abb7b1638275648497_width_500_play_0_pos_0_gs_0_height_500.png" group-title="TVPGO",TVP Kobieta
+plugin://plugin.video.tvpgo/play_channel?code=KBT&ch_id=6040bf7b69359a199aa6fb38
+#EXTINF:0 tvg-id="TVP Polonia" tvg-logo="https://s5.tvp.pl/images2/e/7/b/uid_e7b9ee2c3a342e7b97eda1b96e48808d1638275742066_width_500_play_0_pos_0_gs_0_height_500.png" group-title="TVPGO",TVP Polonia
+plugin://plugin.video.tvpgo/play_channel?code=T4D&ch_id=5d1dccc1fa06f9682b0f9937
+#EXTINF:0 tvg-id="TVP Rozrywka" tvg-logo="https://s9.tvp.pl/images2/9/6/4/uid_9647031d5810bf7b78b1a9f30904468c1638275757901_width_500_play_0_pos_0_gs_0_height_500.png" group-title="TVPGO",TVP Rozrywka
+plugin://plugin.video.tvpgo/play_channel?code=TRO&ch_id=5d1dccc1fa06f9682b0f9935
+#EXTINF:0 tvg-id="Historia 2" tvg-logo="https://s1.tvp.pl/images2/a/e/0/uid_ae0b108d4f6da63a62b15c2c8a58b4021638275776152_width_500_play_0_pos_0_gs_0_height_500.png" group-title="TVPGO",Historia 2
+plugin://plugin.video.tvpgo/play_channel?code=H2&ch_id=60476bb069359a199a319de9
+#EXTINF:0 tvg-id="ALFA TVP" tvg-logo="https://s6.tvp.pl/images2/6/0/0/uid_6008af70ab882fa088c7f00ec2f640271671613962973_width_500_play_0_pos_0_gs_0_height_500.png" group-title="TVPGO",ALFA TVP
+plugin://plugin.video.tvpgo/play_channel?code=ALFA&ch_id=63a07c12535d53f3967f9083
+#EXTINF:0 tvg-id="ABC 2" tvg-logo="https://s8.tvp.pl/images2/8/1/c/uid_81cab4e1725ca1969ec02d7d3cbd56441644906820060_width_500_play_0_pos_0_gs_0_height_500.png" group-title="TVPGO",ABC 2
+plugin://plugin.video.tvpgo/play_channel?code=DMPR&ch_id=5fdb237f69359a199a4376c6
+#EXTINF:0 tvg-id="Kultura 2" tvg-logo="https://s9.tvp.pl/images2/9/5/d/uid_95d9115d0087e74f98e473318137f5611638276367938_width_500_play_0_pos_0_gs_0_height_500.png" group-title="TVPGO",Kultura 2
+plugin://plugin.video.tvpgo/play_channel?code=KUL2&ch_id=6023b5b969359a199a4e25cc
+#EXTINF:0 tvg-id="TV Bielsat" tvg-logo="https://s9.tvp.pl/images2/9/4/d/uid_94daec69fb7046226f9c42ad28c8f7251638805351087_width_500_play_0_pos_0_gs_0_height_500.png" group-title="TVPGO",TV Bielsat
+plugin://plugin.video.tvpgo/play_channel?code=TVBI&ch_id=5d1dccc1fa06f9682b0f993d
+#EXTINF:0 tvg-id="UA 1" tvg-logo="https://s2.tvp.pl/images2/2/2/e/uid_22e0d031662761cdeb669c49b31738b81645961764558_width_500_play_0_pos_0_gs_0_height_500.png" group-title="TVPGO",UA 1
+plugin://plugin.video.tvpgo/play_channel?code=UA1&ch_id=621b637c45f77c917174bf4f
+#EXTINF:0 tvg-id="TVP World" tvg-logo="https://s3.tvp.pl/images2/3/1/a/uid_31a1cb9f553a4e62fdc1a68311068b931639054119238_width_500_play_0_pos_0_gs_0_height_500.png" group-title="TVPGO",TVP World
+plugin://plugin.video.tvpgo/play_channel?code=PIE&ch_id=61f2552dac8460678216e2a3
+#EXTINF:0 tvg-id="TVP 3 Białystok" tvg-logo="https://s7.tvp.pl/images2/7/6/b/uid_76b66286b86d010e5e78545d4bbfabfe1638793990832_width_500_play_0_pos_0_gs_0_height_500.png" group-title="TVPGO",TVP 3 Białystok
+plugin://plugin.video.tvpgo/play_channel?code=XCC&ch_id=5d1dccc1fa06f9682b0f9926
+#EXTINF:0 tvg-id="TVP 3 Bydgoszcz" tvg-logo="https://s8.tvp.pl/images2/8/b/9/uid_8b9e1ca7617a13ed24a10e8a68c900391638794003585_width_500_play_0_pos_0_gs_0_height_500.png" group-title="TVPGO",TVP 3 Bydgoszcz
+plugin://plugin.video.tvpgo/play_channel?code=XBB&ch_id=5d1dccc1fa06f9682b0f9927
+#EXTINF:0 tvg-id="TVP 3 Gdańsk" tvg-logo="https://s7.tvp.pl/images2/7/1/e/uid_71e77467c7991a71cb5ae513cdbfb93b1638794021831_width_500_play_0_pos_0_gs_0_height_500.png" group-title="TVPGO",TVP 3 Gdańsk
+plugin://plugin.video.tvpgo/play_channel?code=XGG&ch_id=5d1dccc1fa06f9682b0f9928
+#EXTINF:0 tvg-id="TVP 3 Gorzów Wlkp." tvg-logo="https://s1.tvp.pl/images2/a/6/8/uid_a680bed6f158daeced52be6028aa38de1638794040463_width_500_play_0_pos_0_gs_0_height_500.png" group-title="TVPGO",TVP 3 Gorzów Wlkp.
+plugin://plugin.video.tvpgo/play_channel?code=XFF&ch_id=5d1dccc1fa06f9682b0f9929
+#EXTINF:0 tvg-id="TVP 3 Katowice" tvg-logo="https://s9.tvp.pl/images2/9/b/8/uid_9b8946e1bbb0f209f8f5b871f2a13fe51638794057243_width_500_play_0_pos_0_gs_0_height_500.png" group-title="TVPGO",TVP 3 Katowice
+plugin://plugin.video.tvpgo/play_channel?code=XTT&ch_id=5d1dccc1fa06f9682b0f992a
+#EXTINF:0 tvg-id="TVP 3 Kielce" tvg-logo="https://s3.tvp.pl/images2/c/7/0/uid_c70410e8a2bb818b017996ee2fe423811638794072791_width_500_play_0_pos_0_gs_0_height_500.png" group-title="TVPGO",TVP 3 Kielce
+plugin://plugin.video.tvpgo/play_channel?code=XEE&ch_id=5d1dccc1fa06f9682b0f992b
+#EXTINF:0 tvg-id="TVP 3 Kraków" tvg-logo="https://s6.tvp.pl/images2/6/6/2/uid_662ba75baf330ab045340a95a6e9e90e1638794087292_width_500_play_0_pos_0_gs_0_height_500.png" group-title="TVPGO",TVP 3 Kraków
+plugin://plugin.video.tvpgo/play_channel?code=XKK&ch_id=5d1dccc1fa06f9682b0f992c
+#EXTINF:0 tvg-id="TVP 3 Łódź" tvg-logo="https://s2.tvp.pl/images2/b/f/3/uid_bf3e7858a15fde048d5a93b447f5d1a51644849140435_width_500_play_0_pos_0_gs_0_height_500.png" group-title="TVPGO",TVP 3 Łódź
+plugin://plugin.video.tvpgo/play_channel?code=XDD&ch_id=5d1dccc1fa06f9682b0f992d
+#EXTINF:0 tvg-id="TVP 3 Lublin" tvg-logo="https://s5.tvp.pl/images2/e/0/d/uid_e0d10c0efcfefb27acc8ad1b9036cbf61644849187650_width_500_play_0_pos_0_gs_0_height_500.png" group-title="TVPGO",TVP 3 Lublin
+plugin://plugin.video.tvpgo/play_channel?code=XLL&ch_id=5d1dccc1fa06f9682b0f992e
+#EXTINF:0 tvg-id="TVP 3 Olsztyn" tvg-logo="https://s2.tvp.pl/images2/2/2/9/uid_229b4d7600dc98bd6a1ba4e3c98e77181638794135703_width_500_play_0_pos_0_gs_0_height_500.png" group-title="TVPGO",TVP 3 Olsztyn
+plugin://plugin.video.tvpgo/play_channel?code=XHH&ch_id=5d1dccc1fa06f9682b0f992f
+#EXTINF:0 tvg-id="TVP 3 Opole" tvg-logo="https://s10.tvp.pl/images2/0/2/3/uid_023b8852dd115dad974e843fe338e9b41638794151873_width_500_play_0_pos_0_gs_0_height_500.png" group-title="TVPGO",TVP 3 Opole
+plugin://plugin.video.tvpgo/play_channel?code=XJJ&ch_id=5d1dccc1fa06f9682b0f9930
+#EXTINF:0 tvg-id="TVP 3 Poznań" tvg-logo="https://s1.tvp.pl/images2/a/7/1/uid_a719cd825dd3ef4c9e65b0bc496df7f11638794168362_width_500_play_0_pos_0_gs_0_height_500.png" group-title="TVPGO",TVP 3 Poznań
+plugin://plugin.video.tvpgo/play_channel?code=XPP&ch_id=5d1dccc1fa06f9682b0f9931
+#EXTINF:0 tvg-id="TVP 3 Rzeszów" tvg-logo="https://s4.tvp.pl/images2/d/5/a/uid_d5a0807713dabd9c8287b1059e2b09561638794186940_width_500_play_0_pos_0_gs_0_height_500.png" group-title="TVPGO",TVP 3 Rzeszów
+plugin://plugin.video.tvpgo/play_channel?code=XRR&ch_id=5d1dccc1fa06f9682b0f9932
+#EXTINF:0 tvg-id="TVP 3 Szczecin" tvg-logo="https://s4.tvp.pl/images2/d/8/5/uid_d852ce14f6500e92d05a3b9d6bcce2181638794202780_width_500_play_0_pos_0_gs_0_height_500.png" group-title="TVPGO",TVP 3 Szczecin
+plugin://plugin.video.tvpgo/play_channel?code=XSS&ch_id=5d1dccc1fa06f9682b0f9933
+#EXTINF:0 tvg-id="TVP 3 Warszawa" tvg-logo="https://s6.tvp.pl/images2/6/6/9/uid_66970627690489831dd443cb3738a9b21638794219190_width_500_play_0_pos_0_gs_0_height_500.png" group-title="TVPGO",TVP 3 Warszawa
+plugin://plugin.video.tvpgo/play_channel?code=XAA&ch_id=5d1dccc1fa06f9682b0f9925
+#EXTINF:0 tvg-id="TVP 3 Wrocław" tvg-logo="https://s4.tvp.pl/images2/d/1/5/uid_d154703f62a5907ec0e3b266d90e37a31638794264386_width_500_play_0_pos_0_gs_0_height_500.png" group-title="TVPGO",TVP 3 Wrocław
+plugin://plugin.video.tvpgo/play_channel?code=XWW&ch_id=5d1dccc1fa06f9682b0f9934
