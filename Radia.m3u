@@ -97,3 +97,5 @@ http://stream3.polskieradio.pl:8906/
 http://stream3.polskieradio.pl:8080/
 #EXTINF:0, group-title="Radio" radio="true",Radio Maryja
 http://51.68.135.155:80/stream
+#EXTINF:0, group-title="Radio" radio="true",ChatGPT Radio
+https://ais-sa1.streamon.fm/7838_128k.aac/playlist.m3u8?listenerId=esAdblock0171590&aw_0_1st.playerid=esPlayer&aw_0_1st.skey=1678896892&aw_0_req.gdpr=true
