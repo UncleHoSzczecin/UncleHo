@@ -1,0 +1,13 @@
+#EXTM3U
+
+#EXTINF:-1,  group-title="Rakuten",Top Movies Polska
+#EXTVLCOPT--http-reconnect=true 
+https://d14678b7277b4f21964f367309c8f3e2.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pl_TopMoviesPolska/7bbefdc2-8f08-4260-a3fa-cfebddd3f1a6/2.m3u8
+
+#EXTINF:-1,  group-title="Rakuten",BjgTjme
+#EXTVLCOPT--http-reconnect=true 
+https://103f01c3ff79408e83c9212f8a374ecc.mediatailor.us-east-1.amazonaws.com/v1/manifest/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_BjgtjmeDarmoweFilmy/dc2cc748-dd5f-4ee5-a800-e29339b42a38/2.m3u8
+
+#EXTINF:-1,  group-title="Rakuten",Grjngo Westerny
+#EXTVLCOPT--http-reconnect=true
+https://b6c7c7d1020a4588982ca7c2625f85d1.mediatailor.us-east-1.amazonaws.com/v1/manifest/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_GrjngoWesterny/a9284e46-718b-4630-9dda-421b6a4323d0/2.m3u8
