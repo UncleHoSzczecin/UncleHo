@@ -1,0 +1,791 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="TVP 1" tvg-logo="" ,TVP 1
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=15037
+http://192.168.1.70:8001/1:0:1:3ABD:514:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="PL: TVP 2" tvg-logo="" ,TVP 2
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=3106
+http://192.168.1.70:8001/1:0:1:C22:1E78:71:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="PL: TVP HD" tvg-logo="" ,TVP HD
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=4408
+http://192.168.1.70:8001/1:0:1:1138:2AF8:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="PL: TVP Info" tvg-logo="" ,TVP Info
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=4409
+http://192.168.1.70:8001/1:0:1:1139:2AF8:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="PL: TVP 3" tvg-logo="" ,TVP 3
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=5111
+http://192.168.1.70:8001/1:0:1:13F7:5DC:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="TVN" tvg-logo="" ,TVN
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=15821
+http://192.168.1.70:8001/1:0:1:3DCD:640:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="TVN Fabula" tvg-logo="" ,TVN Fabuła
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=15830
+http://192.168.1.70:8001/1:0:1:3DD6:640:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="TVN 7" tvg-logo="" ,TVN 7
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=15827
+http://192.168.1.70:8001/1:0:1:3DD3:640:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Polsat" tvg-logo="" ,Polsat
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=13201
+http://192.168.1.70:8001/1:0:1:3391:3390:71:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Polsat Film" tvg-logo="" ,Polsat Film
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=13208
+http://192.168.1.70:8001/1:0:1:3398:3390:71:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Super Polsat" tvg-logo="" ,Super Polsat
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=13211
+http://192.168.1.70:8001/1:0:1:339B:3390:71:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Polsat Seriale" tvg-logo="" ,Polsat Seriale
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=7301
+http://192.168.1.70:8001/1:0:1:1CAC:1CE8:71:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Polsat Rodzina" tvg-logo="" ,Polsat Rodzina
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=7311
+http://192.168.1.70:8001/1:0:1:1C8F:1CE8:71:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Polsat 2" tvg-logo="" ,Polsat 2
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=13210
+http://192.168.1.70:8001/1:0:1:339A:3390:71:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="TV 4" tvg-logo="" ,TV 4
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=13203
+http://192.168.1.70:8001/1:0:1:3393:3390:71:820000:0:0:0:
+#EXTINF:-1 tvg-chno="15826" tvg-logo="http://192.168.1.70/picon/tvn24hd.png" tvg-id="1:0:1:3DD2:640:13E:820000:0:0:0:" tvg-name="TVN 24 HD",TVN 24 HD
+#EXTVLCOPT:program=15826
+http://192.168.1.70:8001/1:0:1:3DD2:640:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="TVN 24 BIS" tvg-logo="" ,TVN 24 BIS
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=4330
+http://192.168.1.70:8001/1:0:19:10EA:3E8:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Biznes24" tvg-logo="" ,Biznes24
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=15703
+http://192.168.1.70:8001/1:0:1:3D57:2C88:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Polsat News" tvg-logo="" ,Polsat News
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=13209
+http://192.168.1.70:8001/1:0:1:3399:3390:71:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Polsat News 2" tvg-logo="" ,Polsat News 2
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=13107
+http://192.168.1.70:8001/1:0:1:3333:3390:71:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="TV Republika" tvg-logo="" ,TV Republika
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=17033
+http://192.168.1.70:8001/1:0:1:4289:2BC0:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="wPolsce.pl" tvg-logo="" ,wPolsce.pl
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=17017
+http://192.168.1.70:8001/1:0:1:4279:2BC0:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="TVN Turbo" tvg-logo="" ,TVN Turbo
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=15824
+http://192.168.1.70:8001/1:0:1:3DD0:640:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Stopklatka" tvg-logo="" ,Stopklatka
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=17019
+http://192.168.1.70:8001/1:0:1:427B:2BC0:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="TVP Rozrywka" tvg-logo="" ,TVP Rozrywka
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=17032
+http://192.168.1.70:8001/1:0:1:4288:2BC0:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="TVP Seriale" tvg-logo="" ,TVP Seriale
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=15708
+http://192.168.1.70:8001/1:0:1:3D5C:2C88:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Kino Polska" tvg-logo="" ,Kino Polska
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=5106
+http://192.168.1.70:8001/1:0:1:13F2:5DC:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="TTV" tvg-logo="" ,TTV
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=15831
+http://192.168.1.70:8001/1:0:1:3DD7:640:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Puls" tvg-logo="" ,Puls
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=15718
+http://192.168.1.70:8001/1:0:1:3D66:2C88:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Puls 2" tvg-logo="" ,Puls 2
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=15710
+http://192.168.1.70:8001/1:0:1:3D5E:2C88:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="WP" tvg-logo="" ,WP
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=15706
+http://192.168.1.70:8001/1:0:1:3D5A:2C88:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="TV6" tvg-logo="" ,TV6
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=13204
+http://192.168.1.70:8001/1:0:1:3394:3390:71:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Superstacja" tvg-logo="" ,Superstacja
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=7358
+http://192.168.1.70:8001/1:0:1:1CBE:1CE8:71:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Canal+ Premium" tvg-logo="" ,Canal+ Premium
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=13020
+http://192.168.1.70:8001/1:0:1:32DC:190:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Canal+ 1" tvg-logo="" ,Canal+ 1
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=5101
+http://192.168.1.70:8001/1:0:1:13ED:5DC:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Canal+ Film" tvg-logo="" ,Canal+ Film
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=14201
+http://192.168.1.70:8001/1:0:1:3779:44C:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Canal+ Family" tvg-logo="" ,Canal+ Family
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=14203
+http://192.168.1.70:8001/1:0:19:377B:44C:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Canal+ Seriale" tvg-logo="" ,Canal+ Seriale
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=14210
+http://192.168.1.70:8001/1:0:19:3782:44C:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Canal+ Dokument" tvg-logo="" ,Canal+ Dokument
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=15001
+http://192.168.1.70:8001/1:0:1:3A99:514:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="HBO" tvg-logo="" ,HBO
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=10510
+http://192.168.1.70:8001/1:0:1:290E:1EDC:71:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="HBO 2" tvg-logo="" ,HBO 2
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=5108
+http://192.168.1.70:8001/1:0:1:13F4:5DC:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="HBO 3" tvg-logo="" ,HBO 3
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=5113
+http://192.168.1.70:8001/1:0:1:13F9:5DC:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Cinemax" tvg-logo="" ,Cinemax
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=4406
+http://192.168.1.70:8001/1:0:1:1136:2AF8:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Cinemax 2" tvg-logo="" ,Cinemax 2
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=3110
+http://192.168.1.70:8001/1:0:1:C26:1E78:71:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Filmbox Premium" tvg-logo="" ,Filmbox Premium
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=15709
+http://192.168.1.70:8001/1:0:1:3D5D:2C88:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Filmbox Extra" tvg-logo="" ,Filmbox Extra
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=15720
+http://192.168.1.70:8001/1:0:1:3D68:2C88:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Ale Kino+" tvg-logo="" ,Ale Kino+
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=14209
+http://192.168.1.70:8001/1:0:19:3781:44C:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="AMC" tvg-logo="" ,AMC
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=15031
+http://192.168.1.70:8001/1:0:1:3AB7:514:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="TNT" tvg-logo="" ,TNT
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=10501
+http://192.168.1.70:8001/1:0:1:2905:1EDC:71:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Paramount Channel" tvg-logo="" ,Paramount Channel
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=13
+http://192.168.1.70:8001/1:0:1:D:1964:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Lifetime" tvg-logo="" ,Lifetime
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=15911
+http://192.168.1.70:8001/1:0:1:3E27:2EE0:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="AXN Spin" tvg-logo="" ,AXN Spin
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=3508
+http://192.168.1.70:8001/1:0:1:DB4:2D50:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="AXN" tvg-logo="" ,AXN
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=3109
+http://192.168.1.70:8001/1:0:1:C25:1E78:71:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Sundance" tvg-logo="" ,Sundance
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=15901
+http://192.168.1.70:8001/1:0:1:3E1D:2EE0:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="FOX" tvg-logo="" ,FOX
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=3111
+http://192.168.1.70:8001/1:0:1:C27:1E78:71:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="FOX Comedy" tvg-logo="" ,FOX Comedy
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=3103
+http://192.168.1.70:8001/1:0:1:C1F:1E78:71:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Comedy Central" tvg-logo="" ,Comedy Central
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=12
+http://192.168.1.70:8001/1:0:1:C:1964:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Polsat Comedy Central Extra" tvg-logo="" ,Polsat Comedy Central Extra
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=16
+http://192.168.1.70:8001/1:0:1:10:1964:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="13 ulica" tvg-logo="" ,13 ulica
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=15910
+http://192.168.1.70:8001/1:0:1:3E26:2EE0:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="SciFi" tvg-logo="" ,SciFi
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=15904
+http://192.168.1.70:8001/1:0:1:3E20:2EE0:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="AXN White" tvg-logo="" ,AXN White
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=7302
+http://192.168.1.70:8001/1:0:1:1C86:1CE8:71:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="AXN Black" tvg-logo="" ,AXN Black
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=7303
+http://192.168.1.70:8001/1:0:1:1C87:1CE8:71:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Kino TV" tvg-logo="" ,Kino TV
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=15713
+http://192.168.1.70:8001/1:0:1:3D61:2C88:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Red Carpet TV" tvg-logo="" ,Red Carpet TV
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=3509
+http://192.168.1.70:8001/1:0:1:DB5:2D50:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Filmbox Action" tvg-logo="" ,Filmbox Action
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=15717
+http://192.168.1.70:8001/1:0:1:3D65:2C88:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Filmbox Family" tvg-logo="" ,Filmbox Family
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=15714
+http://192.168.1.70:8001/1:0:1:3D62:2C88:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Filmbox Arthouse" tvg-logo="" ,Filmbox Arthouse
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=17034
+http://192.168.1.70:8001/1:0:1:428A:2BC0:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Epic Drama" tvg-logo="" ,Epic Drama
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=17040
+http://192.168.1.70:8001/1:0:1:4290:2BC0:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="CBS Europa" tvg-logo="" ,CBS Europa
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=10507
+http://192.168.1.70:8001/1:0:1:290B:1EDC:71:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Polsat Seriale HD" tvg-logo="" ,Polsat Seriale HD
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=7340
+http://192.168.1.70:8001/1:0:1:1CAC:1CE8:71:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Romance TV" tvg-logo="" ,Romance TV
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=15038
+http://192.168.1.70:8001/1:0:1:3ABE:514:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Novela TV" tvg-logo="" ,Novela TV
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=16960
+http://192.168.1.70:8001/1:0:1:4240:3DB8:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Metro" tvg-logo="" ,Metro
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=15828
+http://192.168.1.70:8001/1:0:1:3DD4:640:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Zoom" tvg-logo="" ,Zoom
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=17041
+http://192.168.1.70:8001/1:0:1:4291:2BC0:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="TBN Poland" tvg-logo="" ,TBN Poland
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=807
+http://192.168.1.70:8001/1:0:1:327:1F40:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="BBC First" tvg-logo="" ,BBC First
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=3590
+http://192.168.1.70:8001/1:0:1:E06:2D50:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="BBC Lifestyle" tvg-logo="" ,BBC Lifestyle
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=2011
+http://192.168.1.70:8001/1:0:1:7DB:22C4:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="BBC Earth" tvg-logo="" ,BBC Earth
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=3592
+http://192.168.1.70:8001/1:0:1:E08:2D50:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="BBC Brit" tvg-logo="" ,BBC Brit
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=2006
+http://192.168.1.70:8001/1:0:1:7D6:22C4:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="National Geographic" tvg-logo="" ,National Geographic
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=13023
+http://192.168.1.70:8001/1:0:1:32DF:190:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="National Geographic People" tvg-logo="" ,National Geographic People
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=10503
+http://192.168.1.70:8001/1:0:1:2907:1EDC:71:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Polsat Doku" tvg-logo="" ,Polsat Doku
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=3107
+http://192.168.1.70:8001/1:0:1:C23:1E78:71:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Planete+" tvg-logo="" ,Planete+
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=14206
+http://192.168.1.70:8001/1:0:19:377E:44C:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="History" tvg-logo="" ,History
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=3119
+http://192.168.1.70:8001/1:0:1:C2F:1E78:71:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="History 2" tvg-logo="" ,History 2
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=15906
+http://192.168.1.70:8001/1:0:1:3E22:2EE0:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Discovery" tvg-logo="" ,Discovery
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=15032
+http://192.168.1.70:8001/1:0:1:3AB8:514:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="DTX" tvg-logo="" ,DTX
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=15004
+http://192.168.1.70:8001/1:0:1:3A9C:514:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Discovery Science" tvg-logo="" ,Discovery Science
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=10509
+http://192.168.1.70:8001/1:0:1:290D:1EDC:71:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Polsat Play" tvg-logo="" ,Polsat Play
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=13202
+http://192.168.1.70:8001/1:0:1:3392:3390:71:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Discovery Historia" tvg-logo="" ,Discovery Historia
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=3506
+http://192.168.1.70:8001/1:0:1:DB2:2D50:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="TVP Historia" tvg-logo="" ,TVP Historia
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=15719
+http://192.168.1.70:8001/1:0:1:3D67:2C88:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="TVP Dokument" tvg-logo="" ,TVP Dokument
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=15005
+http://192.168.1.70:8001/1:0:1:3A9D:514:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Focus TV" tvg-logo="" ,Focus TV
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=17053
+http://192.168.1.70:8001/1:0:1:429D:2BC0:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Polsat Viasat History" tvg-logo="" ,Polsat Viasat History
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=3104
+http://192.168.1.70:8001/1:0:1:C20:1E78:71:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Polsat Viasat Explore" tvg-logo="" ,Polsat Viasat Explore
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=7370
+http://192.168.1.70:8001/1:0:1:1CCA:1CE8:71:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Polsat Viasat Nature" tvg-logo="" ,Polsat Viasat Nature
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=10504
+http://192.168.1.70:8001/1:0:1:2908:1EDC:71:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Water Planet" tvg-logo="" ,Water Planet
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=16958
+http://192.168.1.70:8001/1:0:1:423E:3DB8:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Adventure" tvg-logo="" ,Adventure
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=4329
+http://192.168.1.70:8001/1:0:19:10E9:3E8:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Travel Channel" tvg-logo="" ,Travel Channel
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=15832
+http://192.168.1.70:8001/1:0:19:3DD8:640:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="National Geographic Wild" tvg-logo="" ,National Geographic Wild
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=4407
+http://192.168.1.70:8001/1:0:1:1137:2AF8:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Animal Planet" tvg-logo="" ,Animal Planet
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=3504
+http://192.168.1.70:8001/1:0:1:DB0:2D50:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Discovery Life" tvg-logo="" ,Discovery Life
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=4320
+http://192.168.1.70:8001/1:0:19:10E0:3E8:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="ID HD" tvg-logo="" ,ID HD
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=15003
+http://192.168.1.70:8001/1:0:1:3A9B:514:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="CI Polsat" tvg-logo="" ,CI Polsat
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=3120
+http://192.168.1.70:8001/1:0:1:C30:1E78:71:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="CBS Reality" tvg-logo="" ,CBS Reality
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=15707
+http://192.168.1.70:8001/1:0:1:3D5B:2C88:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="TLC" tvg-logo="" ,TLC
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=4318
+http://192.168.1.70:8001/1:0:19:10DE:3E8:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="E! Entertainment" tvg-logo="" ,E! Entertainment
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=15902
+http://192.168.1.70:8001/1:0:1:3E1E:2EE0:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="StudioMed" tvg-logo="" ,StudioMed
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=4811
+http://192.168.1.70:8001/1:0:1:12CB:2E7C:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Kuchnia+" tvg-logo="" ,Kuchnia+
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=14207
+http://192.168.1.70:8001/1:0:19:377F:44C:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Polsat Cafe" tvg-logo="" ,Polsat Cafe
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=13206
+http://192.168.1.70:8001/1:0:1:3396:3390:71:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Food Network" tvg-logo="" ,Food Network
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=15833
+http://192.168.1.70:8001/1:0:19:3DD9:640:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="HGTV" tvg-logo="" ,HGTV
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=4331
+http://192.168.1.70:8001/1:0:19:10EB:3E8:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Domo+" tvg-logo="" ,Domo+
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=5103
+http://192.168.1.70:8001/1:0:1:13EF:5DC:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="TVN Style" tvg-logo="" ,TVN Style
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=15822
+http://192.168.1.70:8001/1:0:1:3DCE:640:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Home TV" tvg-logo="" ,Home TV
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=4804
+http://192.168.1.70:8001/1:0:1:12C4:2E7C:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="TVC" tvg-logo="" ,TVC
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=4324
+http://192.168.1.70:8001/1:0:16:10E4:3E8:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="TVP Kultura" tvg-logo="" ,TVP Kultura
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=15705
+http://192.168.1.70:8001/1:0:1:3D59:2C88:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="ATM Rozrywka" tvg-logo="" ,ATM Rozrywka
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=7354
+http://192.168.1.70:8001/1:0:1:1CBA:1CE8:71:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Nowa TV" tvg-logo="" ,Nowa TV
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=17054
+http://192.168.1.70:8001/1:0:1:429E:2BC0:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Tele 5" tvg-logo="" ,Tele 5
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=16955
+http://192.168.1.70:8001/1:0:1:423B:3DB8:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="TV Okazje" tvg-logo="" ,TV Okazje
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=7309
+http://192.168.1.70:8001/1:0:1:1C8D:1CE8:71:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="TVS" tvg-logo="" ,TVS
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=15704
+http://192.168.1.70:8001/1:0:1:3D58:2C88:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="TVP Polonia" tvg-logo="" ,TVP Polonia
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=3715
+http://192.168.1.70:8001/1:0:1:E83:3200:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Polonia 1" tvg-logo="" ,Polonia 1
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=16956
+http://192.168.1.70:8001/1:0:1:423C:3DB8:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="TBN Poland" tvg-logo="" ,TBN Poland
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=807
+http://192.168.1.70:8001/1:0:1:327:1F40:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Canal+ Sport HD" tvg-logo="" ,Canal+ Sport HD
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=13022
+http://192.168.1.70:8001/1:0:1:32DE:190:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Canal+ Sport 2 HD" tvg-logo="" ,Canal+ Sport 2 HD
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=5102
+http://192.168.1.70:8001/1:0:1:13EE:5DC:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Canal+ Sport 3 HD" tvg-logo="" ,Canal+ Sport 3 HD
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=4802
+http://192.168.1.70:8001/1:0:1:12C2:2E7C:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Canal+ Sport 4 HD" tvg-logo="" ,Canal+ Sport 4 HD
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=4803
+http://192.168.1.70:8001/1:0:1:12C3:2E7C:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Canal+ Now" tvg-logo="" ,Canal+ Now
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=13005
+http://192.168.1.70:8001/1:0:1:32CD:190:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="nSport+" tvg-logo="" ,nSport+
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=15033
+http://192.168.1.70:8001/1:0:1:3AB9:514:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Eleven Sports 1 HD" tvg-logo="" ,Eleven Sports 1 HD
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=5107
+http://192.168.1.70:8001/1:0:1:13F3:5DC:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Eleven Sports 2 HD" tvg-logo="" ,Eleven Sports 2 HD
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=5109
+http://192.168.1.70:8001/1:0:1:13F5:5DC:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Eleven Sports 3 HD" tvg-logo="" ,Eleven Sports 3 HD
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=5112
+http://192.168.1.70:8001/1:0:1:13F8:5DC:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Eleven Sports 4 HD" tvg-logo="" ,Eleven Sports 4 HD
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=13006
+http://192.168.1.70:8001/1:0:1:32CE:190:13E:820000:0:0:0::
+#EXTINF:-1 tvg-ID="" tvg-name="TVP Sport" tvg-logo="" ,TVP Sport
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=3505
+http://192.168.1.70:8001/1:0:1:DB1:2D50:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Polsat Sport HD" tvg-logo="" ,Polsat Sport HD
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=3101
+http://192.168.1.70:8001/1:0:1:C1D:1E78:71:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Polsat Sport Extra HD" tvg-logo="" ,Polsat Sport Extra HD
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=3108
+http://192.168.1.70:8001/1:0:1:C24:1E78:71:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Polsat Sport News HD" tvg-logo="" ,Polsat Sport News HD
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=10515
+http://192.168.1.70:8001/1:0:1:2913:1EDC:71:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Polsat Sport Premium 1" tvg-logo="" ,Polsat Sport Premium 1
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=1801
+http://192.168.1.70:8001/1:0:1:709:32C8:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Polsat Sport Premium 2" tvg-logo="" ,Polsat Sport Premium 2
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=1801
+http://192.168.1.70:8001/1:0:1:709:32C8:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Polsat Sport Premium PPV3" tvg-logo="" ,Polsat Sport Premium PPV 3
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=1803
+http://192.168.1.70:8001/1:0:1:70B:32C8:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Polsat Sport Premium PPV4" tvg-logo="" ,Polsat Sport Premium PPV 4
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=1804
+http://192.168.1.70:8001/1:0:1:70C:32C8:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Polsat Sport Premium PPV5" tvg-logo="" ,Polsat Sport Premium PPV 5
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=1805
+http://192.168.1.70:8001/1:0:1:70D:32C8:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Polsat Sport Premium PPV6" tvg-logo="" ,Polsat Sport Premium PPV 6
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=1806
+http://192.168.1.70:8001/1:0:1:70E:32C8:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Polsat Sport Fight" tvg-logo="" ,Polsat Sport Fight
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=10513
+http://192.168.1.70:8001/1:0:1:2911:1EDC:71:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Eurosport 1 HD" tvg-logo="" ,Eurosport 1 HD
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=15909
+http://192.168.1.70:8001/1:0:1:3E25:2EE0:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Eurosport 2 HD" tvg-logo="" ,Eurosport 2 HD
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=10508
+http://192.168.1.70:8001/1:0:1:290C:1EDC:71:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Motowizja" tvg-logo="" ,Motowizja
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=14208
+http://192.168.1.70:8001/1:0:19:3780:44C:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Extreme Sports" tvg-logo="" ,Extreme Sports
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=10506
+http://192.168.1.70:8001/1:0:1:290A:1EDC:71:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Fightbox" tvg-logo="" ,Fightbox
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=15908
+http://192.168.1.70:8001/1:0:1:3E24:2EE0:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Sportklub" tvg-logo="" ,Sportklub
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=3503
+http://192.168.1.70:8001/1:0:1:DAF:2D50:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Golf Channel" tvg-logo="" ,Golf Channel
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=15907
+http://192.168.1.70:8001/1:0:1:3E23:2EE0:13E:820000:0:0:0:
+#EXTINF:-1 tvg-chno="16946" tvg-logo="" tvg-id="1:0:19:4232:2F44:13E:820000:0:0:0:" tvg-name="Dlia Ciebie TV" ,Dlia Ciebie TV
+#EXTVLCOPT:program=16946
+http://192.168.1.70:8001/1:0:19:4232:2F44:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Polsat Games" tvg-logo="" ,Polsat Games
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=17028
+http://192.168.1.70:8001/1:0:1:4284:2BC0:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Active Family" tvg-logo="" ,Active Family
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=4412
+http://192.168.1.70:8001/1:0:1:113C:2AF8:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Cartoon Network" tvg-logo="" ,Cartoon Network
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=10502
+http://192.168.1.70:8001/1:0:1:2906:1EDC:71:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Nicktoon" tvg-logo="" ,Nicktoons
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=14
+http://192.168.1.70:8001/1:0:1:E:1964:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="TeleTOON+" tvg-logo="" ,TeleTOON+
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=14205
+http://192.168.1.70:8001/1:0:19:377D:44C:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="MiniMini+" tvg-logo="" ,MiniMini+
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=13024
+http://192.168.1.70:8001/1:0:1:32E0:190:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Disney Channel HD" tvg-logo="" ,Disnej Channel HD
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=7350
+http://192.168.1.70:8001/1:0:1:1CB6:1CE8:71:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Disney XD" tvg-logo="" ,Disney XD
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=7349
+http://192.168.1.70:8001/1:0:1:1CB5:1CE8:71:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Nick Jr" tvg-logo="" ,Nick Jr
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=3
+http://192.168.1.70:8001/1:0:1:3:1964:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Disney Junior" tvg-logo="" ,Disney Junior
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=10552
+http://192.168.1.70:8001/1:0:1:2938:1EDC:71:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Polsat JimJam" tvg-logo="" ,Polsat JimJam
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=7351
+http://192.168.1.70:8001/1:0:1:1CB7:1CE8:71:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Boomerang" tvg-logo="" ,Boomerang
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=17045
+http://192.168.1.70:8001/1:0:1:4295:2BC0:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Nickelodeon" tvg-logo="" ,Nickelodeon
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=9
+http://192.168.1.70:8001/1:0:1:9:1964:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="BBC CBeebies" tvg-logo="" ,BBC CBeebies
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=2009
+http://192.168.1.70:8001/1:0:1:7D9:22C4:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="TVP ABC" tvg-logo="" ,TVP ABC
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=15711
+http://192.168.1.70:8001/1:0:1:3D5F:2C88:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Baby TV" tvg-logo="" ,Baby TV
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=16925
+http://192.168.1.70:8001/1:0:1:421D:2F44:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Da Vinci" tvg-logo="" ,Da Vinci
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=17024
+http://192.168.1.70:8001/1:0:1:4280:2BC0:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Eska TV" tvg-logo="" ,Eska TV
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=17052
+http://192.168.1.70:8001/1:0:1:429C:2BC0:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Eska TV Extra" tvg-logo="" ,Eska TV Extra
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=17051
+http://192.168.1.70:8001/1:0:1:429B:2BC0:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Eska Rock" tvg-logo="" ,Eska Rock
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=17049
+http://192.168.1.70:8001/1:0:1:4299:2BC0:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Polsat Music HD" tvg-logo="" ,Polsat Music HD
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=17043
+http://192.168.1.70:8001/1:0:1:4293:2BC0:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="4Fun.tv" tvg-logo="" ,4Fun.tv
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=17037
+http://192.168.1.70:8001/1:0:1:428D:2BC0:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="4Fun Kids" tvg-logo="" ,4Fun Kids
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=17038
+http://192.168.1.70:8001/1:0:1:428E:2BC0:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="4Fun Dance" tvg-logo="" ,4Fun Dance
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=17039
+http://192.168.1.70:8001/1:0:1:428F:2BC0:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="MTV Music 24" tvg-logo="" ,MTV Music 24
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=2
+http://192.168.1.70:8001/1:0:1:2:1964:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="MTV Polska HD" tvg-logo="" ,MTV Polska
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=15
+http://192.168.1.70:8001/1:0:1:F:1964:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="MTV Live" tvg-logo="" ,MTV Live
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=1
+http://192.168.1.70:8001/1:0:1:1:1964:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="MTV 90s" tvg-logo="" ,MTV 90s
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=7353
+http://192.168.1.70:8001/1:0:1:1CB9:1CE8:71:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="VOX Music TV" tvg-logo="" ,VOX Music
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=17048
+http://192.168.1.70:8001/1:0:1:4298:2BC0:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Kino Polska Muzyka" tvg-logo="" ,Kino Polska Muzyka
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=3502
+http://192.168.1.70:8001/1:0:1:DAE:2D50:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Nuta TV" tvg-logo="" ,Nuta TV
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=4317
+http://192.168.1.70:8001/1:0:1:10DD:3E8:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="VH1" tvg-logo="" ,VH1
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=8
+http://192.168.1.70:8001/1:0:1:8:1964:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Stars.TV" tvg-logo="" ,Stars.TV
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=17023
+http://192.168.1.70:8001/1:0:1:427F:2BC0:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Disco Polo Music" tvg-logo="" ,Disco Polo Music
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=7308
+http://192.168.1.70:8001/1:0:1:1C8C:1CE8:71:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Polo TV" tvg-logo="" ,Polo TV
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=17050
+http://192.168.1.70:8001/1:0:1:429A:2BC0:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="Gold TV" tvg-logo="" ,Gold TV
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=4328
+http://192.168.1.70:8001/1:0:16:10E8:3E8:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="RTL 102.5 HD" tvg-logo="" ,RTL 102.5 HD
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=1307
+http://192.168.1.70:8001/1:0:19:51B:3D54:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="VOD 202" tvg-logo="" ,VOD 202
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=60
+http://192.168.1.70:8001/1:0:1:3C:1964:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="VOD 203" tvg-logo="" ,VOD 203
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=61
+http://192.168.1.70:8001/1:0:1:3D:1964:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="VOD 204" tvg-logo="" ,VOD 204
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=62
+http://192.168.1.70:8001/1:0:1:3E:1964:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="VOD 205" tvg-logo="" ,VOD 205
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=63
+http://192.168.1.70:8001/1:0:1:3F:1964:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="VOD 206" tvg-logo="" ,VOD 206
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=64
+http://192.168.1.70:8001/1:0:1:40:1964:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="VOD 207" tvg-logo="" ,VOD 207
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=65
+http://192.168.1.70:8001/1:0:1:41:1964:13E:820000:0:0:0:
+#EXTINF:-1 tvg-ID="" tvg-name="VOD 208" tvg-logo="" ,VOD 208
+#EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:program=66
+http://192.168.1.70:8001/1:0:1:42:1964:13E:820000:0:0:0:
